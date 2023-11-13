@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Processos.MARCHESONI\\Downloads\\solsysclinicavet-20231113T083800Z-001\\solsysclinicavet\\cldal\\cldal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Processos.MARCHESONI\\Downloads\\solsysclinicavet-20231113T083800Z-001\\solsysclinicavet\\cldal\\cldal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Processos.MARCHESONI\\Downloads\\solsysclinicavet-20231113T083800Z-001\\solsysclinicavet\\cldal\\cldal.csproj",
+        "projectName": "cldal",
+        "projectPath": "C:\\Users\\Processos.MARCHESONI\\Downloads\\solsysclinicavet-20231113T083800Z-001\\solsysclinicavet\\cldal\\cldal.csproj",
+        "packagesPath": "C:\\Users\\Processos.MARCHESONI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Processos.MARCHESONI\\Downloads\\solsysclinicavet-20231113T083800Z-001\\solsysclinicavet\\cldal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Processos.MARCHESONI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Processos.MARCHESONI\\Downloads\\solsysclinicavet-20231113T083800Z-001\\solsysclinicavet\\clmodel\\clmodel.csproj": {
+                "projectPath": "C:\\Users\\Processos.MARCHESONI\\Downloads\\solsysclinicavet-20231113T083800Z-001\\solsysclinicavet\\clmodel\\clmodel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Processos.MARCHESONI\\Downloads\\solsysclinicavet-20231113T083800Z-001\\solsysclinicavet\\clmodel\\clmodel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Processos.MARCHESONI\\Downloads\\solsysclinicavet-20231113T083800Z-001\\solsysclinicavet\\clmodel\\clmodel.csproj",
+        "projectName": "clmodel",
+        "projectPath": "C:\\Users\\Processos.MARCHESONI\\Downloads\\solsysclinicavet-20231113T083800Z-001\\solsysclinicavet\\clmodel\\clmodel.csproj",
+        "packagesPath": "C:\\Users\\Processos.MARCHESONI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Processos.MARCHESONI\\Downloads\\solsysclinicavet-20231113T083800Z-001\\solsysclinicavet\\clmodel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Processos.MARCHESONI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
